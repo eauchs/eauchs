@@ -37,4 +37,3 @@ Here are the public projects that demonstrate the *types* of systems I build.
 You can find the full story of my professional experience on my LinkedIn profile.
 
 [![My LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theophile-lafargue)
-[![My Hugging Face Profile](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/ox-ox)
