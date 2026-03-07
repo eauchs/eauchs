@@ -28,4 +28,4 @@ Infra: Docker · Tailscale · Bare-metal homelab
 
 ## Links
 
-[LinkedIn](https://linkedin.com/in/theophile-lafargue) · [Substack](https://substack.com/@theo472869)
+[LinkedIn](https://linkedin.com/in/theophile-lafargue) · [Substack](https://substack.com/@theo472869) - [HUGGING-FACE](https://huggingface.co/ox-ox)
