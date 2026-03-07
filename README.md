@@ -11,6 +11,7 @@ Student-Entrepreneur at Paris-Saclay (Pépite PEIPS). Previously AI R&D at Amund
 |---|---|
 | [**VoxTape**](https://github.com/eauchs/voxtape) | Local voice-to-text for macOS — MLX Whisper on Metal GPU. Open-source SuperWhisper alternative. |
 | [**llama.cpp PR #20075**](https://github.com/ggml-org/llama.cpp/pull/20075) | Fix speculative decoding on hybrid SSM/MoE models (Qwen 3.5 122B). +45% inference on M3 Max. |
+| [**StepFun Cookbook PR #14**](https://github.com/stepfun-ai/Step-3.5-Flash/pull/14) | Local deployment architecture for Step-3.5-flash on Apple Silicon. Merged. |
 | [**benchmark-422-qec**](https://github.com/eauchs/benchmark-422-qec) | 11 LLMs vs. a single quantum error correction problem. 0/11 correct. Failure patterns > leaderboards. |
 | [**patent-low-bandwidth-ai**](https://github.com/eauchs/patent-low-bandwidth-ai) | Hybrid RAG pipeline for AI over 2G/SMS. Backend for patent FR2511116. |
 | [**speech-to-speech-pipeline**](https://github.com/eauchs/speech-to-speech-pipeline) | Real-time conversational AI (STT→LLM→TTS) with barge-in. Local, Apple Silicon. |
