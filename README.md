@@ -1,31 +1,33 @@
-# Théophile Lafargue
+## Théophile Lafargue
 
-I build local AI infrastructure on Apple Silicon. Open-source contributor to [llama.cpp](https://github.com/ggml-org/llama.cpp/pull/20075) and [StepFun](https://github.com/stepfun-ai/Step-3.5-Flash).
+I build local AI infrastructure on Apple Silicon.  
+Open-source contributor to llama.cpp and StepFun. Patent holder.  
+Student-Entrepreneur at Paris-Saclay (Pépite PEIPS).
 
-Patent holder — [FR2511116](https://github.com/eauchs/patent-low-bandwidth-ai): stateful LLM communication over 2G/SMS networks.  
-Student-Entrepreneur at Paris-Saclay (Pépite PEIPS). Previously AI R&D at Amundi.
+---
 
-## Projects
+### Projects
 
 | Project | What it does |
 |---|---|
-| [**VoxTape**](https://github.com/eauchs/voxtape) | Local voice-to-text for macOS — MLX Whisper on Metal GPU. Open-source SuperWhisper alternative. |
-| [**llama.cpp PR #20075**](https://github.com/ggml-org/llama.cpp/pull/20075) | Fix speculative decoding on hybrid SSM/MoE models (Qwen 3.5 122B). +45% inference on M3 Max. |
-| [**StepFun Cookbook PR #14**](https://github.com/stepfun-ai/Step-3.5-Flash/pull/14) | Local deployment architecture for Step-3.5-flash on Apple Silicon. Merged. |
-| [**benchmark-422-qec**](https://github.com/eauchs/benchmark-422-qec) | 11 LLMs vs. a single quantum error correction problem. 0/11 correct. Failure patterns > leaderboards. |
-| [**patent-low-bandwidth-ai**](https://github.com/eauchs/patent-low-bandwidth-ai) | Hybrid RAG pipeline for AI over 2G/SMS. Backend for patent FR2511116. |
-| [**speech-to-speech-pipeline**](https://github.com/eauchs/speech-to-speech-pipeline) | Real-time conversational AI (STT→LLM→TTS) with barge-in. Local, Apple Silicon. |
-| [**gui-agent**](https://github.com/eauchs/gui-agent) | Two-layer macOS GUI agent — VLM perception + LLM strategy. |
-| [**enigma-shell**](https://github.com/eauchs/enigma-shell) | Control a full Linux VM with natural language via local LLMs. |
-| [**gpt-oss-web-agent**](https://github.com/eauchs/gpt-oss-web-agent) | Autonomous web agent powered by GPT-OSS 20B. |
+| **Phantom** | Personal AI OS — behavioral transformer that observes, learns, and acts. MLX on-device. |
+| **VoxTape** | Local voice-to-text for macOS — MLX Whisper on Metal GPU. Open-source SuperWhisper alternative. |
+| **llama.cpp #20075** | Fix speculative decoding on hybrid SSM/MoE models. +45% inference on M3 Max. |
+| **StepFun Cookbook #14** | Local deployment of Step-3.5-flash on Apple Silicon. Merged. |
+| **benchmark-422-qec** | 11 LLMs vs. one quantum error correction problem. 0/11 correct. |
+| **patent-low-bandwidth-ai** | Hybrid RAG pipeline for AI over 2G/SMS — backend for patent FR2511116. |
+| **gui-agent** | Two-layer macOS GUI agent — VLM perception + LLM strategy. |
+| **enigma-shell** | Control a full Linux VM with natural language via local LLMs. |
 
-## Stack
+---
 
-Inference: llama.cpp · MLX · Metal · ROCm · GGUF quantization  
-AI/ML: Whisper · RAG (ChromaDB) · LoRA · Distributed inference  
-Languages: Python · C++ · TypeScript  
-Infra: Docker · Tailscale · Bare-metal homelab
+### Stack
 
-## Links
+**Inference** — llama.cpp · MLX · Metal · ROCm · GGUF  
+**AI/ML** — Whisper · RAG (ChromaDB) · LoRA · Transformers  
+**Languages** — Python · C++ · TypeScript  
+**Infra** — Docker · Tailscale · Bare-metal homelab (7 devices)
 
-[LinkedIn](https://linkedin.com/in/theophile-lafargue) · [Substack](https://substack.com/@theo472869) - [HUGGING-FACE](https://huggingface.co/ox-ox)
+---
+
+[LinkedIn](https://linkedin.com/in/theophile-lafargue) · [Substack](https://substack.com/@theo472869) · [HuggingFace](https://huggingface.co/ox-ox)
