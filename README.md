@@ -30,4 +30,4 @@ Student-Entrepreneur at Paris-Saclay (Pépite PEIPS).
 
 ---
 
-[LinkedIn](https://linkedin.com/in/theophile-lafargue) · [Substack](https://substack.com/@theo472869) · [HuggingFace](https://huggingface.co/ox-ox)
+[LinkedIn](https://linkedin.com/in/theophile-lafargue) · [Substack](https://theophilelafargue.substack.com/)) · [HuggingFace](https://huggingface.co/ox-ox)
