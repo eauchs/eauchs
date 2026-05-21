@@ -4,10 +4,6 @@
 
 I build AI infrastructure for constrained environments — the edges where most systems stop working.
 
-Patent FR2511116 (Sep 2025) — stateful LLM communication over 2G / SMS / LoRa / satellite. End-to-end PoC validated: real 2G SIM → Flask gateway → Qwen 122B → response in <10s on a 50€ phone.
-
-First institutional validation: Gendarmerie Nationale (DGGN), Apr 2026. Active defense pipeline with DGA and état-major des armées.
-
 Student-Entrepreneur — Pépite PEIPS, Université Paris-Saclay (SNEE).
 
 ORCID: [0009-0001-5727-2475](https://orcid.org/0009-0001-5727-2475)
