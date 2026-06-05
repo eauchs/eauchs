@@ -2,9 +2,9 @@
 
 **20. Founder. Paris.**
 
+I build AI infrastructure for constrained environments — the edges where most systems stop working.
 Available for contract work on Apple Silicon LLM inference — contact@aeternitatis.eu 
 
-I build AI infrastructure for constrained environments — the edges where most systems stop working.
 
 Student-Entrepreneur — Pépite PEIPS, Université Paris-Saclay (SNEE).
 
