@@ -73,4 +73,4 @@ Filed: Sep 27, 2025 · INPI · 11 claims · examination in progress
 
 ---
 
-[LinkedIn](https://www.linkedin.com/) · [Substack](https://theophilelafargue.substack.com) · [HuggingFace](https://huggingface.co/ox-ox) · [ORCID](https://orcid.org/0009-0001-5727-2475)
+[LinkedIn](https://www.linkedin.com/theophile-lafargue) · [Substack](https://theophilelafargue.substack.com) · [HuggingFace](https://huggingface.co/ox-ox) · [ORCID](https://orcid.org/0009-0001-5727-2475)
