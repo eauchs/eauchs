@@ -14,6 +14,7 @@ ORCID: [0009-0001-5727-2475](https://orcid.org/0009-0001-5727-2475)
 
 ### Selected proof
 
+- First MLX build of Poolside's **Laguna M.1** (225B-A23B MoE) on Apple Silicon — PR'd upstream to `mlx-lm`, featured by Poolside
 - First GGUF quants of MiniMax-M2.5 & M2.7 (229B MoE) — used and recommended by the llama.cpp / r/LocalLLaMA community
 - llama.cpp PRs **merged and cited as prior work** by core maintainers
 - Native MLX speculative decoding port — **3.41× faster** inference on Apple Silicon
@@ -24,6 +25,7 @@ ORCID: [0009-0001-5727-2475](https://orcid.org/0009-0001-5727-2475)
 
 | PR | What it does | Status |
 |----|--------------|--------|
+| **mlx-lm #1415** | Add Poolside Laguna M.1 (225B-A23B MoE) to mlx-lm — first Apple Silicon / MLX support. | Open · in review |
 | **llama.cpp #20075** | Fix state corruption in speculative decoding on hybrid SSM/MoE models. +45% inference speed on Apple Silicon Metal. | Merged · cited as prior work in #20428 + #20649 |
 | **llama.cpp #20649** | Diagnostic + flake8 fix for Mistral Small 4 (119B MoE). | Merged · cited alongside ggerganov + ngxson |
 | **unslothai/unsloth #4901** | Fix RoPE offset cast crashing Gemma 4 inference on Apple Silicon. | Merged by danielhanchen (creator) |
@@ -49,6 +51,7 @@ ORCID: [0009-0001-5727-2475](https://orcid.org/0009-0001-5727-2475)
 
 | Repo | Description | Downloads |
 |------|-------------|-----------|
+| **Laguna-M.1-MLX-Q3** | First MLX build of Poolside's Laguna M.1 (225B-A23B MoE). 3-bit · ~26 t/s · ~100 GB peak on M3 Max 128GB. | new |
 | **MiniMax-M2.7-GGUF** | First GGUF quants of MiniMax-M2.7 (229B MoE). Q3_K_L + Q8_0. PPL 8.44 · 28.52 t/s. | 522 |
 | **MiniMax-M2.5-GGUF** | First GGUF quants of MiniMax-M2.5 (229B MoE). PPL 8.79 · 28.7 t/s. Recommended by llama.cpp community. | 437 |
 | **mythos-character-distillation** | 551 behavioral pairs for Mythos-style LoRA distillation. | 66 |
