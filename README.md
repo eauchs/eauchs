@@ -52,10 +52,12 @@ ORCID: [0009-0001-5727-2475](https://orcid.org/0009-0001-5727-2475)
 | Repo | Description | Downloads |
 |------|-------------|-----------|
 | **Laguna-M.1-MLX-Q3** | First MLX build of Poolside's Laguna M.1 (225B-A23B MoE). 3-bit · ~26 t/s · ~100 GB peak on M3 Max 128GB. | new |
-| **MiniMax-M2.7-GGUF** | First GGUF quants of MiniMax-M2.7 (229B MoE). Q3_K_L + Q8_0. PPL 8.44 · 28.52 t/s. | 522 |
-| **MiniMax-M2.5-GGUF** | First GGUF quants of MiniMax-M2.5 (229B MoE). PPL 8.79 · 28.7 t/s. Recommended by llama.cpp community. | 437 |
+| **MiniMax-M2.7-GGUF** | First GGUF quants of MiniMax-M2.7 (229B MoE). Q3_K_L + Q8_0. PPL 8.44 · 28.52 t/s. | 664 |
+| **MiniMax-M2.5-GGUF** | First GGUF quants of MiniMax-M2.5 (229B MoE). PPL 8.79 · 28.7 t/s. Recommended by llama.cpp community. | 13.7k |
 | **mythos-character-distillation** | 551 behavioral pairs for Mythos-style LoRA distillation. | 66 |
 | **lace-semantic-compression** | 198 operational tasks (defense / medical / industrial), VQ codebook, LACE v2 dataset. | 40 |
+
+*HuggingFace download counts don't include GGUF files pulled directly via llama.cpp / Ollama / direct download — actual usage is higher.*
 
 ---
 
