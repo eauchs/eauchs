@@ -35,7 +35,7 @@ Member of [`mlx-community`](https://huggingface.co/mlx-community).
 
 | PR | What it does | Status |
 |---|---|---|
-| [`llama.cpp` #20075](https://github.com/ggml-org/llama.cpp/pull/20075) | Fix state corruption in speculative decoding on hybrid SSM/MoE models. **+45% inference speed** on Apple Silicon Metal. | **Merged** — cited as prior work in #20428 and #20649 |
+| [`llama.cpp` #20075](https://github.com/ggml-org/llama.cpp/pull/20075) | Fix state corruption in speculative decoding on hybrid SSM/MoE models. **+45% inference speed** on Apple Silicon Metal. | **Closed in prior of other** — cited as prior work in #20428 and #20649 |
 | [`llama.cpp` #20649](https://github.com/ggml-org/llama.cpp/pull/20649) | Mistral Small 4 (119B MoE) support — diagnostic + fix. | **Merged** — alongside ggerganov, ngxson |
 | [`unsloth` #4901](https://github.com/unslothai/unsloth/pull/4901) | Fix RoPE offset cast crashing Gemma 4 inference on Apple Silicon. | **Merged** by danielhanchen (creator) |
 | [`StepFun Cookbook` #14](https://github.com/stepfun-ai/StepFun-Cookbook/pull/14) | Local deployment architecture for Step-3.5-Flash on Apple Silicon. | **Merged** |
