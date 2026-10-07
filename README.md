@@ -3,7 +3,7 @@
 **Founder & CEO, [Sub Specie Aeternitatis](https://aeternitatis.eu)** · Paris
 
 Sovereign LLM inference where the internet doesn't reach: SMS, LoRa, satellite.
-The model runs on-premise; the conversation context stays at the gateway. Patent application **FR2511116** (INPI, filed Sep 2025) and PCT application (filed Sep 2026).
+The model runs on-premise; the conversation context stays at the gateway. Patent application **FR2511116**, in France and internationally.
 
 > **200,000+ views** on r/LocalLLaMA release posts · **32,800+ downloads** on my open-source model builds (**12,100** in the last 30 days)
 > First public MLX/GGUF builds of 4 frontier models · PRs merged into `llama.cpp`, `unsloth`, `StepFun Cookbook`
@@ -52,7 +52,7 @@ Member of [`mlx-community`](https://huggingface.co/mlx-community).
 | [**grounding-engine**](https://github.com/eauchs/grounding-engine) | Keep a local LLM honest: the model proposes validated, typed deltas instead of mutating state; invalid changes are rejected before they exist. Anti-hallucination by construction. Zero deps, OpenAI-compatible, MIT. Powers modex's grounding packs and a fully offline grand-strategy engine. |
 | [**LACE**](https://github.com/eauchs/lace) | Semantic compression under LoRa/SMS physical constraints. Cognitive Emergence Law: `N/K < C·d_cog`, C_emp = 0.391 ≈ 1/e. K=16 optimal deployment parameter (p=0.0034). Preprint: [HAL hal-05596229](https://hal.science/hal-05596229) · [Zenodo](https://doi.org/10.5281/zenodo.19664121) |
 | [**mythos**](https://github.com/eauchs/mythos) | Behavioral distillation into Gemma 4 26B MoE via LoRA (r=64, 30 layers). 551 pairs, val loss 1.398, 7/7 out-of-distribution generalization without system prompt. 80 t/s on M3 Max. |
-| **patent-low-bandwidth-ai** *(private)* | Reference gateway for stateful LLM dialogue over SMS, companion implementation to patent application FR2511116. Tested 16 Sep 2026 on real phones: 24/24 replies fit in a single SMS, 3.1 s median compute; SMS delivery time depends on the carrier. No internet needed on the user's side, commodity hardware. |
+| **patent-low-bandwidth-ai** *(private)* | Reference gateway for stateful LLM dialogue over SMS, companion implementation to patent application FR2511116. Tested on real phones: 24/24 replies fit in a single SMS. No internet needed on the user's side, no cloud. |
 | [**speech-to-speech-pipeline**](https://github.com/eauchs/speech-to-speech-pipeline) | Real-time interruptible (barge-in) STT-LLM-TTS pipeline, fully local, MLX-optimized. |
 | [**VoxTape**](https://github.com/eauchs/voxtape) | Local voice dictation for macOS. MLX Whisper on Metal: 8.3s audio → 0.4s inference (20× real-time). |
 
